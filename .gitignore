@@ -1,5 +1,6 @@
-# Environment variables
-.env
-
-# Virtual environment
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
 venv/
+.venv/
